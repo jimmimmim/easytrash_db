@@ -1,9 +1,13 @@
 {
-  "posts": [
+  "categories": [
     {
       "name": 1,
       "email": "hello"
-    }
+    },
+    {
+      "name": 2,
+      "email": "hello~"
+    },
   ],
   "profile": {
     "name": "typicode"
